@@ -14,8 +14,8 @@
 </p>
 
 <p>
-Objetivos
-	
+
+### 💻 Sobre o projeto
 • Trabalhar com os conceitos de Classes, Atributos, Métodos, Objetos, Construtores,
 Condicionais e Repetições, Polimorfismo, Arrays (Vetor e Matriz) e Exceções;
 	
@@ -54,3 +54,20 @@ todas as possibilidades para efetuar a melhor jogada - apesar de o número total
 possibilidades ser muito grande, a maioria delas é simétrica, além de que as regras são
 simples. Por esse motivo, é muito comum que o jogo empate (ou "dê velha").
 </p>
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Java](https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o))<img align = "center" alt = "" height = "30" width = "40" src = "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+
+## 👥 Contribuitors
+<table>
+	<tr>
+	      <td align="center"><a href="https://github.com/JhoctanTeixeira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80040630?v=4" width="100px;" alt=""/><br /><sub><b>Jhoctan Teixeira</b></sub></a><br /><a href="https://github.com/JhoctanTeixeira" title="Jhoctan-Teixeira">🚀💻</a></td>
+		<td align="center"><a href="https://github.com/enzo-b-pagliacci"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80040708?v=4" width="100px;" alt=""/><br /><sub><b>enzo-b-pagliaci</b></sub></a><br /><a href="https://github.com/enzo-b-pagliacci" title="enzo-b-pagliaci">🚀💻</a></td>
+    		<td align="center"><a href="https://github.com/Gustavo-Lopes-Carlin-fiap"><img style="border-radius: 50%;" src="https://github.com/JhoctanTeixeira/GlobalSolution/blob/main/img/Gustavo.png" width="100px;" alt=""/><br /><sub><b>Gustavo-Lopes-Carlin-fiap</b></sub></a><br /><a href="https://github.com/Gustavo-Lopes-Carlin-fiap" title="Gustavo">🚀💻</a></td>
+    		<td align="center"><a href="https://github.com/Guilherme-Beck-FIAP"><img style="border-radius: 50%;" src="https://github.com/JhoctanTeixeira/GlobalSolution/blob/main/img/Beck.png" width="100px;" alt=""/><br /><sub><b>Guilherme-Beck-FIAP</b></sub></a><br /><a href="https://github.com/Guilherme-Beck-FIAP" title="enzo-b-pagliaci">🚀💻</a></td>
+    		<td align="center"><a href="https://github.com/Gabrielrpg68"><img style="border-radius: 50%;" src="https://github.com/JhoctanTeixeira/GlobalSolution/blob/main/img/dantas.png" width="100px;" alt=""/><br /><sub><b>Gabrielrpg68</b></sub></a><br /><a href="https://github.com/Gabrielrpg68" title="enzo-b-pagliaci">🚀💻</a></td>	
+	</tr>
+</table>

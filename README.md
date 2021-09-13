@@ -1,6 +1,5 @@
-# CP4-DDD
 <h1 align="center">
-    <img alt="#Java" title="#Java" src="./img/logo.png" />
+    <img alt="#Java" title="#Java" src="./LogoVelhaJg.png" />
 </h1>
 <h4 align="center"> 
 	🚧 🚀 Em construção... 🚧
